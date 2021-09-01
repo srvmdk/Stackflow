@@ -1,0 +1,9 @@
+{
+	"global": {
+		"focus": {
+			"border": {
+				"color": "light-4"
+			}
+		}
+	}
+}
