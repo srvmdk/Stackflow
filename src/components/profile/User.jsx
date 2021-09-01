@@ -61,7 +61,7 @@ const User = (props) => {
 
 	const getProfileInfo = () => (
 		<Box gap="small">
-			<Heading level={2} margin={{ vertical: "small" }}>
+			<Heading level={3} margin={{ vertical: "small" }}>
 				{user.name ?? `User ${userId}`}
 			</Heading>
 
